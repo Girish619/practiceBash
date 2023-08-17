@@ -6,5 +6,6 @@ public class BashingGit {
 		//git bash
 		System.out.println("check out git bash");
 		System.out.println("Git Bash");
+		System.out.println("hi");
 	}
 }
